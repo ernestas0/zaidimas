@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709662449 source:c:\users\home\downloads\c++\zaidimas\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<thread>
+	<conio.h>
+	<fstream>
+
