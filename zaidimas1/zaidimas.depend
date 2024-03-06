@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709705935 source:c:\users\gabijus\documents\ernestas rudşianskas iiid\zaidimas\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	<chrono>
+	<thread>
+	<conio.h>
+	<fstream>
+	<ctime>
+
